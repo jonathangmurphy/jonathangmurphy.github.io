@@ -5,4 +5,4 @@ Welcome to my personal website where you can become familiar with my work and ke
 <br>
 <br>
 # Bio
-Raised in Oregon, trained at University of Denver Anschutz Medical Campus, and now a senior postdoc at the National Institutes of Health in Bethesda, Maryland. 
+Originally from Portland, Oregon; I recieved my professional training at University of Denver, Anschutz Medical Campus before moving on to a postdoc position at the National Institutes of Health in Bethesda, Maryland. 

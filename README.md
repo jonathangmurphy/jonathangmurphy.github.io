@@ -1,2 +1,2 @@
 # Jonathan G. Murphy
-Welcome to my personal website where you can get familiar with my work and keep up with my latest research projects.
+Welcome to my personal website where you can become familiar with my work and keep up with my latest research projects.

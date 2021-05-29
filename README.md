@@ -1,1 +1,1 @@
-# jonathan g murphy
+# Jonathan G. Murphy

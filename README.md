@@ -1,7 +1,6 @@
 Welcome to my personal website where you can become familiar with my work.
 <br>
 <br>
-<br>
 # Bio
 Originally from in and around Portland, Oregon; I received PhD training with Mark Dell'Acqua at University of Colorado, Anschutz Medical Campus before taking a postdoc position with Dax Hoffman at the National Institutes of Health in Bethesda, Maryland. 
 <br>

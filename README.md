@@ -2,7 +2,7 @@ I author biomedical research articles as Jonathan G. Murphy. Welcome to my perso
 <br>
 <br>
 # Bio
-Originally from Portland, Oregon, I attended the University of Oregon where I received a BS in Biochemistry. After undergraduate studies, I took a research position at Oregon Health Sciences University with Wei Fan and Roger Cone studying hypothalamic control of metabolism. Eventually, I trained with Mark Dell'Acqua at the University of Colorado, Anschutz Medical Campus where I obtained a PhD in Neuroscience. I am now a postdoctoral fellow with Dax Hoffman at the National Institutes of Health in Bethesda, Maryland. 
+Originally from Portland, Oregon, I attended the University of Oregon where I received a BS in Biochemistry. After undergraduate studies, I took a research position at Oregon Health Sciences University with Wei Fan and Roger Cone studying hypothalamic control of metabolism. Eventually, I trained with Mark Dell'Acqua at the University of Colorado, Anschutz Medical Campus where I obtained a PhD in Neuroscience. I am now a postdoctoral fellow with Dax Hoffman at the National Institutes of Health in Bethesda, Maryland. I live in Washington, DC with my wife, two children, and a bernedoodle.
 <br>
 <br>
 # Research

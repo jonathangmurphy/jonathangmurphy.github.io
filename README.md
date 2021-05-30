@@ -6,7 +6,7 @@ Originally from Portland, Oregon, I attended the University of Oregon and receiv
 <br>
 <br>
 # Research
-# Works
+# Papers
 Murphy, J.G.$, Gutzmann, J.J., Lin, L., Hu, J., Petralia, R.S., Wang, Y-X., Hoffman, D.A.$ R-type voltage-gated Ca2+ channels mediate A-type K+ current regulation of synaptic input in hippocampal dendrites. bioRxiv doi: https://doi.org/10.1101/2020.05.27.119305
 
 Bellotti, A., Murphy, J.G., Lin, L., Petralia, R., Wang, Y-X., Hoffman, D., O’Leary, T. Paradoxical relationships between active transport and global protein distributions in neurons. Biophysical Journal. 2021. In press. https://doi.org/10.1016/j.bpj.2021.02.048

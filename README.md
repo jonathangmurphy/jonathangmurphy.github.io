@@ -50,4 +50,12 @@ $ co-corresponding author
 
 # Invited Seminars
 
+2019	Ion Channel Regulation FASEB Summer Conference
+2019	Neurobiology Interest Group Seminar Series, NIH
+2018	Synaptic Transmission Gordon Research Conference
+2017	Ion Channel Regulation FASEB Summer Conference
+2013	International Meeting on Anchored cAMP Signaling Pathways
+2013	Dept of Pharmacology Student/Postdoc Research Day keynote speaker; Univ. of Colo. SOM
+2013	Society for Neuroscience Rocky Mountain Regional Neuroscience Group Meeting
+
 

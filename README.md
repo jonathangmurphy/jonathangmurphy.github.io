@@ -50,8 +50,7 @@ $ co-corresponding author
 
 # Invited Seminars
 
-2019	Ion Channel Regulation FASEB Summer Conference
-
+2019	Ion Channel Regulation FASEB Summer Conference<br>
 2019	Neurobiology Interest Group Seminar Series, NIH
 
 2018	Synaptic Transmission Gordon Research Conference

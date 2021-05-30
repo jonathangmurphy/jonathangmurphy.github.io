@@ -1,4 +1,4 @@
-Hi, I'm Jonathan G. Murphy, a Neurobiology researcher. Welcome to my personal website where you can become familiar with my work.
+Hi, I'm Jonathan G. Murphy, a neurobiology researcher. Welcome to my personal website where you can become familiar with my work.
 <br>
 <br>
 # Bio

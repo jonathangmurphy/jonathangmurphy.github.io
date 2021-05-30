@@ -1,4 +1,4 @@
-Welcome to my personal website where you can become familiar with my work.
+I author scientific research articles as Jonathan G. Murphy. Welcome to my personal website where you can become familiar with my work.
 <br>
 <br>
 # Bio

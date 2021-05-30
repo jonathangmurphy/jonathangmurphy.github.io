@@ -37,19 +37,9 @@ Role of the central melanocortin circuitry in adaptive thermogenesis of brown ad
 Selker, E. U., Tountas, N. A., Cross, S. H., Margolin, B. S., Murphy, J. G., Bird, A. P., and Freitag, M. The methylated component of the Neurospora crassa genome. Nature. 2003, 422(6934): 893-897.
 
 @ equal contribution <br>
-$ co-corresponding author
-
-# Funding
-2016 - 2019	FI2 NIGMS Postdoctoral Research Associate Training Fellowship; GM120004; "Regulation of local translation in neuronal dendrites of a mouse model of Fragile X Syndrome"
-<br>
-# Teaching
-
-2019 (Fall)	BISC 2320 - Neural Circuits and Behavior, Department of Biological Sciences, George Washington University, Washington, DC
-
-2018 (Fall)	BISC 2202 - Cell Biology, Department of Biological Sciences, George Washington University, Washington, DC
+$ co-corresponding author<br>
 
 # Invited Seminars
-
 2019	Ion Channel Regulation FASEB Summer Conference<br>
 2019	Neurobiology Interest Group Seminar Series, NIH<br>
 2018	Synaptic Transmission Gordon Research Conference<br>
@@ -57,5 +47,13 @@ $ co-corresponding author
 2013	International Meeting on Anchored cAMP Signaling Pathways<br>
 2013	Dept of Pharmacology Student/Postdoc Research Day co-keynote speaker; Univ. of Colo., AMC<br>
 2013	Society for Neuroscience Rocky Mountain Regional Neuroscience Group Meeting<br>
+
+
+# Funding
+2016 - 2019	FI2 NIGMS Postdoctoral Research Associate Training Fellowship; GM120004; "Regulation of local translation in neuronal dendrites of a mouse model of Fragile X Syndrome"
+<br>
+# Teaching
+2019 (Fall)	BISC 2320 - Neural Circuits and Behavior, Department of Biological Sciences, George Washington University, Washington, DC<br>
+2018 (Fall)	BISC 2202 - Cell Biology, Department of Biological Sciences, George Washington University, Washington, DC
 
 

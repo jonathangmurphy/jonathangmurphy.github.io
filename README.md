@@ -39,13 +39,13 @@ Selker, E. U., Tountas, N. A., Cross, S. H., Margolin, B. S., Murphy, J. G., Bir
 $ co-corresponding author<br>
 
 # Invited Seminars
-2019	Ion Channel Regulation FASEB Summer Conference<br>
-2019	Neurobiology Interest Group Seminar Series, NIH<br>
-2018	Synaptic Transmission Gordon Research Conference<br>
-2017	Ion Channel Regulation FASEB Summer Conference<br>
-2013	International Meeting on Anchored cAMP Signaling Pathways<br>
-2013	Dept of Pharmacology Student/Postdoc Research Day co-keynote speaker; Univ. of Colo., AMC<br>
-2013	Society for Neuroscience Rocky Mountain Regional Neuroscience Group Meeting<br>
+2019	Ion Channel Regulation FASEB Summer Conference, Lisbon, Portugal<br>
+2019	Neurobiology Interest Group Seminar Series, National Insitutes of Health, Bethesda, MD, USA<br>
+2018	Synaptic Transmission Gordon Research Conference, Waterville Valley, NH, USA<br>
+2017	Ion Channel Regulation FASEB Summer Conference, Steamboat Springs, CO, USA<br>
+2013	International Meeting on Anchored cAMP Signaling Pathways, Univ. of Colo. Anschutz Med. Campus, Aurora, CO, USA<br>
+2013	Dept of Pharmacology Student/Postdoc Research Day co-keynote speaker; Univ. of Colo., Anschutz Med. Campus, Aurora, CO, USA<br>
+2013	Society for Neuroscience Rocky Mountain Regional Neuroscience Group Meeting, Fort Collins, CO, USA<br>
 
 
 # Funding

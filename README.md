@@ -41,10 +41,13 @@ $ co-corresponding author
 
 # Funding
 2016 - 2019	FI2 NIGMS Postdoctoral Research Associate Training Fellowship; GM120004; "Regulation of local translation in neuronal dendrites of a mouse model of Fragile X Syndrome"
+<br>
 # Teaching
 
 2019 (Fall)	BISC 2320 - Neural Circuits and Behavior, Department of Biological Sciences, George Washington University, Washington, DC
 
 2018 (Fall)	BISC 2202 - Cell Biology, Department of Biological Sciences, George Washington University, Washington, DC
+
+# Invited Seminars
 
 

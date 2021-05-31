@@ -5,7 +5,8 @@ Originally from Portland, Oregon, I attended the University of Oregon and receiv
 <br>
 <br>
 # Research
-
+<br>
+<br>
 # Papers
 #### [My Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/jon.murphy.1/bibliography/public/)
 Murphy, J.G.$, Gutzmann, J.J., Lin, L., Hu, J., Petralia, R.S., Wang, Y-X., Hoffman, D.A.$ R-type voltage-gated Ca2+ channels mediate A-type K+ current regulation of synaptic input in hippocampal dendrites. bioRxiv doi: https://doi.org/10.1101/2020.05.27.119305

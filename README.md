@@ -56,7 +56,7 @@ $ co-corresponding author<br>
 2019 (Fall) -	BISC 2320 - Neural Circuits and Behavior, Department of Biological Sciences, George Washington University, Washington, DC<br>
 2018 (Fall)	- BISC 2202 - Cell Biology, Department of Biological Sciences, George Washington University, Washington, DC
 # Service
-2020 - present:  Review Editor; Frontiers in Cellular Neuroscience, section on cellular neurophysiology<br>
+2020 - Present:  Review Editor; Frontiers in Cellular Neuroscience, section on cellular neurophysiology<br>
 2018 - Present:	 Member; Neurobiology Interest Group Seminar Organizing Committee, NIH
 
 

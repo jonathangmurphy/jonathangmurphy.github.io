@@ -5,6 +5,7 @@ Originally from Portland, Oregon, I attended the University of Oregon and receiv
 <br>
 <br>
 # Research
+
 # Papers
 Murphy, J.G.$, Gutzmann, J.J., Lin, L., Hu, J., Petralia, R.S., Wang, Y-X., Hoffman, D.A.$ R-type voltage-gated Ca2+ channels mediate A-type K+ current regulation of synaptic input in hippocampal dendrites. bioRxiv doi: https://doi.org/10.1101/2020.05.27.119305
 
@@ -54,5 +55,7 @@ $ co-corresponding author<br>
 # Teaching
 2019 (Fall) -	BISC 2320 - Neural Circuits and Behavior, Department of Biological Sciences, George Washington University, Washington, DC<br>
 2018 (Fall)	- BISC 2202 - Cell Biology, Department of Biological Sciences, George Washington University, Washington, DC
+# Service
+
 
 

@@ -4,9 +4,7 @@ Hi, I'm Jon Murphy, a neurobiology researcher. Welcome to my personal website wh
 Originally from Portland, Oregon, I attended the University of Oregon and received a degree in Biochemistry. After undergraduate studies, I took a research position at Oregon Health Sciences University with Wei Fan and Roger Cone studying hypothalamic control of metabolism. I trained with Mark Dell'Acqua at the University of Colorado, Anschutz Medical Campus where I obtained a PhD in Neuroscience. I am now a postdoctoral fellow with Dax Hoffman at the *Eunice Kennedy Shriver* National Institute of Child Health and Humand Development at the National Institutes of Health in Bethesda, Maryland. I live in Washington, DC with my wife, two children, and a Bernedoodle.
 <br>
 <br>
-# Research
-<br>
-<br>
+# Research<br>
 # Papers
 #### [My Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/jon.murphy.1/bibliography/public/)
 Murphy, J.G.$, Gutzmann, J.J., Lin, L., Hu, J., Petralia, R.S., Wang, Y-X., Hoffman, D.A.$ R-type voltage-gated Ca2+ channels mediate A-type K+ current regulation of synaptic input in hippocampal dendrites. bioRxiv doi: https://doi.org/10.1101/2020.05.27.119305

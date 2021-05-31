@@ -1,5 +1,7 @@
 Hi, I'm Jon Murphy, a neurobiology researcher. Welcome to my personal website where you can become familiar with my work.
 <br>
+murphy-jon.jpeg![murphy-jon](https://user-images.githubusercontent.com/84531218/120218729-2e76da00-c208-11eb-9344-26a34ebcfed4.jpeg)
+
 # Bio
 Originally from Portland, Oregon, I attended the University of Oregon and received a degree in Biochemistry. After undergraduate studies, I took a research position at Oregon Health Sciences University with Wei Fan and Roger Cone studying hypothalamic control of metabolism. I trained with Mark Dell'Acqua at the University of Colorado, Anschutz Medical Campus where I obtained a PhD in Neuroscience. I am now a postdoctoral fellow with Dax Hoffman at the *Eunice Kennedy Shriver* National Institute of Child Health and Humand Development at the National Institutes of Health in Bethesda, Maryland. I live in Washington, DC with my wife, two children, and a Bernedoodle.
 <br>

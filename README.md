@@ -8,6 +8,7 @@ Originally from Portland, Oregon, I attended the University of Oregon and receiv
 <br>
 <br>
 # Research<br>
+During brain activity neurons receive thousands of excitatory and inhibitory synaptic inputs that modulate local neuronal and circuit level function. At the cellular level, synaptic input and neuronal firing cycles interact to regulate the activity of voltage-gated ion channels that, together with passive membrane properties, determine synaptic integration, firing rate, and thus circuit output. With an emphasis on voltage-gated Ca2+ and K+ channels, I am interested in the regulation of ion channel, neuron, and circuit properties by auxiliary subunit binding, protein-protein interactions, and posttranslational modifications. My research leverages quantitative electrophysiology, advanced fluorescence imaging, and molecular techniques to study the cellular and molecular mechanisms of excitability in neurons and their relationship to hippocampus-dependent learning and memory in animal models of neurobiological disease.![image](https://user-
 # Papers
 #### [My Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/jon.murphy.1/bibliography/public/)
 Murphy, J.G.$, Gutzmann, J.J., Lin, L., Hu, J., Petralia, R.S., Wang, Y-X., Hoffman, D.A.$ R-type voltage-gated Ca2+ channels mediate A-type K+ current regulation of synaptic input in hippocampal dendrites. bioRxiv doi: https://doi.org/10.1101/2020.05.27.119305

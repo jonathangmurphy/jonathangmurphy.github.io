@@ -2,7 +2,7 @@ Hi, I'm Jon Murphy, a neurobiology researcher. Welcome to my personal website.
 <br>
 <br>
 <p align ="center">
-  <img src=https://user-images.githubusercontent.com/84531218/120218729-2e76da00-c208-11eb-9344-26a34ebcfed4.jpeg>
+  <img src="https://user-images.githubusercontent.com/84531218/120218729-2e76da00-c208-11eb-9344-26a34ebcfed4.jpeg">
 </p>
 
 # Bio

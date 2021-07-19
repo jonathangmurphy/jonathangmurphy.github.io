@@ -44,6 +44,13 @@ Selker, E. U., Tountas, N. A., Cross, S. H., Margolin, B. S., Murphy, J. G., Bir
 @ equal contribution <br>
 $ co-corresponding author<br>
 
+
+# Funding
+2016 - 2019	FI2 NIGMS Postdoctoral Research Associate Training Fellowship; GM120004; "Regulation of local translation in neuronal dendrites of a mouse model of Fragile X Syndrome"
+<br>
+# Teaching
+2019 (Fall) -	BISC 2320 - Neural Circuits and Behavior, Department of Biological Sciences, George Washington University, Washington, DC<br>
+2018 (Fall)	- BISC 2202 - Cell Biology, Department of Biological Sciences, George Washington University, Washington, DC
 # Invited Seminars
 2019	Ion Channel Regulation FASEB Summer Conference, Lisbon, Portugal<br>
 2019	Neurobiology Interest Group Seminar Series, National Insitutes of Health, Bethesda, MD, USA<br>
@@ -52,14 +59,6 @@ $ co-corresponding author<br>
 2013	International Meeting on Anchored cAMP Signaling Pathways, Univ. of Colo., Anschutz Med. Campus, Aurora, CO, USA<br>
 2013	Dept of Pharmacology Student/Postdoc Research Day co-keynote speaker; Univ. of Colo., Anschutz Med. Campus, Aurora, CO, USA<br>
 2013	Society for Neuroscience Rocky Mountain Regional Neuroscience Group Meeting, Fort Collins, CO, USA<br>
-
-
-# Funding
-2016 - 2019	FI2 NIGMS Postdoctoral Research Associate Training Fellowship; GM120004; "Regulation of local translation in neuronal dendrites of a mouse model of Fragile X Syndrome"
-<br>
-# Teaching
-2019 (Fall) -	BISC 2320 - Neural Circuits and Behavior, Department of Biological Sciences, George Washington University, Washington, DC<br>
-2018 (Fall)	- BISC 2202 - Cell Biology, Department of Biological Sciences, George Washington University, Washington, DC
 # Service
 2020 - Present:  Review Editor; Frontiers in Cellular Neuroscience, section on cellular neurophysiology<br>
 2018 - Present:	 Member; Neurobiology Interest Group Seminar Organizing Committee, NIH
